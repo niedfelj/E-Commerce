@@ -1,7 +1,7 @@
-Online-Ordering
+E-Commerce
 ===============
 
-Revel Systems Online Ordering application
+Revel Systems E-Commerce application
 
 Installation and Setup:
 
